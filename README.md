@@ -1,1 +1,41 @@
 # learning
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+
+	<title>我的首頁</title>
+
+</head>
+<body>
+		<h1>照片</h1>
+		<img src="rename.jpg"></img>
+		<hr/>
+		<h5/>我的最愛
+		<u1>
+			<li><a href="http://www.google.com/"> Google</a></li>
+			<li>Facebook</li>
+			<li>PTT.cc</li>
+		</u1>
+		<h3/>足球比賽
+		<table border="1" width="300" cellpadding="5">
+			<tr> 
+				<td>Name </td>
+				<td>Win</td>
+				<td>Lose </td>
+			</tr>
+			<tr> 
+				<td><b>Muenchen</b> </td>
+				<td>10 </td>
+				<td>0 </td>
+			</tr>
+			<tr>
+				<td><u>Koeln</u> </td>
+				<td>0</td>
+				<td>10</td>
+			</tr>
+		
+		</table>
+</body>
+
+</html>
